@@ -1,0 +1,42 @@
+# -------------------------------------------------------------------------
+# HUGGING FACE REPO IDs: HIGH-PERFORMANCE OPEN SOURCE CHAT & INSTRUCT MODELS
+# -------------------------------------------------------------------------
+# Note: Ensure you include the exact capitalization and slashes when passing 
+# these strings into your LangChain HuggingFaceEndpoint or HuggingFacePipeline.
+# -------------------------------------------------------------------------
+
+# --- 1. QWEN FAMILY (Alibaba) ---
+# Highly recommended for structured output parsing, Pydantic validation, and coding.
+Qwen/Qwen2.5-7B-Instruct
+Qwen/Qwen2.5-14B-Instruct
+Qwen/Qwen2.5-32B-Instruct
+Qwen/Qwen2.5-72B-Instruct
+
+# --- 2. DEEPSEEK FAMILY ---
+# Excellent for advanced programming logic, math, and step-by-step reasoning workflows.
+deepseek-ai/DeepSeek-V3
+deepseek-ai/DeepSeek-R1-Distill-Qwen-7B
+deepseek-ai/DeepSeek-R1-Distill-Qwen-14B
+deepseek-ai/DeepSeek-R1-Distill-Llama-8B
+
+# --- 3. MISTRAL FAMILY ---
+# Fast, efficient, natively supports function calling, and handles instructions well.
+mistralai/Mistral-7B-Instruct-v0.3
+mistralai/Mixtral-8x7B-Instruct-v0.1
+mistralai/Mistral-Small-Instruct-2409
+
+# --- 4. GOOGLE GEMMA FAMILY ---
+# Excellent conversational capability and reasoning relative to its footprint.
+google/gemma-2-9b-it
+google/gemma-2-27b-it
+
+# --- 5. MICROSOFT PHI FAMILY ---
+# Lightweight, small language models optimized for logic, math, and easy local hosting.
+microsoft/Phi-4-mini-instruct
+microsoft/Phi-3.5-mini-instruct
+
+# --- 6. META LLAMA FAMILY (Alternative Chat Variations) ---
+# Ensure you use the specific "Instruct" variants for conversational pipelines.
+meta-llama/Meta-Llama-3-8B-Instruct
+meta-llama/Llama-3.1-8B-Instruct
+meta-llama/Llama-3.3-70B-Instruct

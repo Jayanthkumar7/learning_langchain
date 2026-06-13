@@ -1,0 +1,659 @@
+================================================================================
+                          THE COMPLETE GUIDE TO CRICKET
+================================================================================
+
+A comprehensive guide covering the basics, equipment, rules, and famous players
+of cricket — the world's second most popular sport, followed by 2.5 billion fans
+across more than 100 countries.
+
+================================================================================
+SECTION 1: WHAT IS CRICKET?
+================================================================================
+
+Cricket is a bat-and-ball game played between two teams of eleven players on a
+large oval-shaped field. At the centre of the field is the "pitch," a rectangular
+strip of ground approximately 22 yards (20.12 metres) long, where most of the
+action takes place.
+
+Each team takes turns to bat (score runs) and field (take wickets). The team with
+the most runs at the end of the game wins.
+
+Matches range from short Twenty20 (T20) games lasting about 3 hours, to One Day
+Internationals (ODIs) lasting around 8 hours, to Test matches that can last up to
+5 days.
+
+The Laws of Cricket were written by the Marylebone Cricket Club (MCC) in 1788 and
+there are 42 official Laws in total. The International Cricket Council (ICC) governs
+cricket at the international level.
+
+================================================================================
+SECTION 2: EQUIPMENT USED IN CRICKET
+================================================================================
+
+1. CRICKET BAT
+   - Made of willow wood (English willow or Kashmir willow)
+   - Flat on one side (the hitting face), curved (ridge) on the other
+   - Maximum length: 38 inches (96.5 cm)
+   - Maximum width: 4.25 inches (10.8 cm)
+   - The blade is made of wood; the handle is wrapped in rubber grip
+   - English willow bats are considered premium quality; used by professionals
+   - Kashmir willow bats are more affordable; good for beginners
+
+2. CRICKET BALL
+   - A hard, leather-covered ball stitched with a prominent seam
+   - Red ball: used in Test matches and first-class cricket
+   - White ball: used in ODIs and T20 matches
+   - Pink ball: used in day-night Test matches
+   - Weight: between 155.9 g and 163 g
+   - Circumference: between 22.4 cm and 22.9 cm
+   - The seam and condition of the ball (shine on one side) play a crucial role
+     in a bowler's ability to swing the ball through the air
+
+3. STUMPS AND BAILS (THE WICKET)
+   - Three vertical wooden stumps hammered into the ground at each end of the pitch
+   - Two small wooden pieces (bails) rest on top of the stumps
+   - Width of the wicket: 9 inches (22.86 cm)
+   - Height of the stumps: 28 inches (71.1 cm)
+   - A batsman is "out bowled" when the ball hits the stumps and dislodges the bails
+
+4. PROTECTIVE GEAR (for batsmen)
+   - Helmet: hard outer shell with a metal grille to protect the face
+   - Batting gloves: padded gloves to protect hands and fingers
+   - Batting pads (leg guards): foam and plastic guards strapped to the legs
+   - Thigh pad: protects the upper thigh from fast deliveries
+   - Inner thigh guard: protects the inner thigh
+   - Chest guard: protects the chest and arm from short-pitched deliveries
+   - Abdominal guard (box): protects the groin area
+   - Arm guard: optional; protects the forearm
+
+5. WICKET-KEEPER'S GEAR
+   - Wicket-keeping gloves: large, webbed gloves for catching the ball
+   - Wicket-keeping pads: shorter and lighter than batting pads
+   - Wicket-keepers also wear helmet, chest guard, and abdominal guard
+
+6. FIELDING EQUIPMENT
+   - Fielders do not use protective equipment (except when in close positions)
+   - Fielding caps and sunglasses are commonly used
+
+7. THE PITCH
+   - 22 yards (20.12 m) long, 10 feet (3.05 m) wide
+   - Prepared clay surface, typically rolled and flattened
+   - Has a "popping crease" (batting crease) and "bowling crease" at each end
+   - The pitch changes over time — it can crack and deteriorate, which helps
+     spin bowlers later in a match
+
+8. THE FIELD
+   - An oval or circular grassy field with no fixed size
+   - Typically 100–160 yards across
+   - The "boundary" is marked by a rope around the edge of the field
+   - A ball reaching the boundary scores 4 runs; a ball hit over the boundary
+     without bouncing scores 6 runs
+
+9. CRICKET SHOES
+   - Spiked shoes (cricket spikes) for grip on grass and clay surfaces
+   - Rubber-soled shoes for indoor or artificial surface cricket
+
+10. SCOREBOARD AND TECHNOLOGY
+    - Traditional manual scoreboard (numbers on boards)
+    - Modern electronic scoreboards in international venues
+    - Snickometer (Snicko): detects faint edges using sound
+    - Hawk-Eye: ball-tracking technology for LBW reviews
+    - Hot Spot: infrared imaging to detect ball-bat contact
+    - Ultra Edge: combination of Snicko and real-time audio waveform
+
+================================================================================
+SECTION 3: FORMATS OF CRICKET
+================================================================================
+
+1. TEST CRICKET
+   - The oldest and most prestigious format
+   - Each team bats twice (two innings each)
+   - No limit on overs; a match can last up to 5 days
+   - Teams wear traditional white clothing
+   - A red ball is used
+
+2. ONE DAY INTERNATIONAL (ODI)
+   - Each team bats for a maximum of 50 overs (300 balls)
+   - Usually completed in one day (~8 hours)
+   - Coloured clothing and a white ball are used
+   - Powerplay rules restrict fielders in the first 10 overs
+
+3. TWENTY20 (T20)
+   - The shortest and most explosive format
+   - Each team bats for a maximum of 20 overs (120 balls)
+   - Completed in about 3 hours
+   - Popularised by tournaments like the IPL (Indian Premier League),
+     Big Bash League (BBL), and PSL (Pakistan Super League)
+
+4. THE HUNDRED
+   - A newer format introduced in England (2021)
+   - Each team faces 100 balls, not overs
+   - Bowlers can bowl 5 or 10 balls in a row
+
+================================================================================
+SECTION 4: BASIC RULES OF CRICKET
+================================================================================
+
+--- THE TOSS ---
+Before the match, the two captains meet at the pitch. One captain tosses a coin;
+the other calls heads or tails. The winner decides whether to bat or field first.
+
+--- TEAMS AND INNINGS ---
+- Each team has 11 players
+- Teams take turns batting and fielding
+- In Test cricket: each team bats twice (two innings)
+- In ODIs and T20s: each team bats once
+
+--- HOW RUNS ARE SCORED ---
+- Running between the wickets: both batsmen run to opposite ends = 1 run each crossing
+- Batting pairs can run 1, 2, or 3 runs on a single hit
+- Boundary (ball rolls to the rope): 4 runs, batsmen don't need to run
+- Six (ball cleared the rope without bouncing): 6 runs
+- Extras: runs given to the batting team without the bat touching the ball
+  * Wide: ball bowled too wide for the batsman to hit
+  * No-ball: bowler overstepped the crease, or bowled illegally
+  * Bye: ball missed bat and keeper; batsmen run
+  * Leg bye: ball hit the batsman's pads, not the bat; batsmen run
+
+--- HOW A BATSMAN IS DISMISSED (WAYS OF GETTING OUT) ---
+There are 10 ways a batsman can be dismissed:
+
+1. BOWLED — The ball hits the stumps and dislodges the bails
+2. CAUGHT — The ball is hit by the bat and caught by a fielder before it bounces
+3. LBW (Leg Before Wicket) — The ball hits the batsman's pad (not the bat) and
+   would have gone on to hit the stumps
+4. RUN OUT — A fielder hits the stumps while a batsman is outside the crease
+   while running
+5. STUMPED — The wicket-keeper removes the bails while the batsman is out of the
+   crease and not attempting a run
+6. HIT WICKET — The batsman accidentally hits the stumps with the bat or body
+7. HANDLED THE BALL — The batsman deliberately touches the ball with the hand
+   not holding the bat (now covered under "Obstructing the Field")
+8. OBSTRUCTING THE FIELD — A batsman deliberately obstructs a fielder
+9. HIT THE BALL TWICE — The batsman hits the ball twice intentionally
+10. TIMED OUT — A new batsman takes more than 3 minutes to arrive at the crease
+
+--- BOWLING RULES ---
+- A "over" consists of 6 legal deliveries bowled from the same end
+- After each over, the bowling switches to the opposite end
+- The same bowler cannot bowl consecutive overs
+- A bowler must not bowl more than 10 overs in ODIs and 4 in T20s (per match)
+- No-balls are penalised: the batting team gets an extra delivery
+- In Test cricket, there is no limit on how many overs a bowler can bowl
+
+--- POWERPLAY ---
+In limited-overs cricket (ODI and T20), Powerplays restrict the number of fielders
+allowed outside the inner fielding circle:
+- ODI: Mandatory Powerplay = first 10 overs; maximum 2 fielders outside the circle
+- T20: Mandatory Powerplay = first 6 overs; maximum 2 fielders outside the circle
+
+--- LBW (LEG BEFORE WICKET) RULE (IN DETAIL) ---
+A batsman is out LBW if:
+- The ball was not a wide
+- The ball pitched in line or on the off side
+- The ball hit the batsman's pad (not the bat) first
+- The ball would have gone on to hit the stumps (umpire's judgment or DRS)
+
+If the ball pitches outside leg stump, the batsman CANNOT be given out LBW.
+
+--- DRS (DECISION REVIEW SYSTEM) ---
+Each team gets a limited number of reviews per innings to challenge umpire decisions.
+Technology used: Hawk-Eye (ball tracking), Ultra Edge (sound/contact), Hot Spot.
+A review is retained if the on-field decision is overturned.
+
+--- STOP-CLOCK RULE (2024) ---
+Introduced in men's ODIs and T20Is from June 2024:
+- The bowling team must begin a new over within 60 seconds of the previous one ending
+- After two warnings, every further breach results in 5 penalty runs to the batting team
+
+--- FIELDING RESTRICTIONS ---
+- A maximum of 5 fielders may be on the leg side at any time
+- In ODIs: no more than 5 fielders outside the 30-yard fielding circle after Powerplay
+- In T20s: no more than 5 fielders outside during non-Powerplay overs
+
+--- BALL TAMPERING ---
+Deliberately altering the condition of the ball (scratching, using saliva with
+foreign substances, etc.) is illegal and results in a 5-run penalty. The saliva
+ban (using saliva to shine the ball) was made permanent post-COVID.
+
+--- WINNING THE MATCH ---
+- The team with the most runs at the end of all innings wins
+- In a limited-overs match that is interrupted by rain: DLS (Duckworth-Lewis-Stern)
+  method recalculates targets
+- If a limited-overs match ends in a tie: a Super Over (1-over-per-side shootout)
+  is used to determine the winner in most tournaments
+
+================================================================================
+SECTION 5: FIELDING POSITIONS IN CRICKET
+================================================================================
+
+Fielding positions are named based on where they are placed relative to the batsman.
+Key positions include:
+
+ON THE OFF SIDE (right side for a right-handed batsman):
+- Slip (1st, 2nd, 3rd) — close to the wicket-keeper; catches edges
+- Gully — wider than slips
+- Point — square on the off side
+- Cover point — between point and mid-off
+- Mid-off — close to the bowler on the off side
+
+ON THE LEG SIDE:
+- Fine leg — behind the batsman on the leg side
+- Square leg — level with the batsman on the leg side
+- Mid-on — close to the bowler on the leg side
+- Mid-wicket — between mid-on and square leg
+- Long-on — deep on the leg side near the boundary
+
+BEHIND THE WICKET:
+- Wicket-keeper — directly behind the stumps
+- Long stop — very rarely used; behind the wicket-keeper near the boundary
+
+================================================================================
+SECTION 6: BOWLING TYPES AND TECHNIQUES
+================================================================================
+
+PACE BOWLING (Fast Bowling)
+- Fast bowlers aim to bowl at high speeds (130–150+ km/h) to beat the batsman
+- Types of deliveries:
+  * Outswinger: ball swings away from the right-handed batsman in the air
+  * Inswinger: ball swings into the right-handed batsman
+  * Reverse swing: old ball swings in the opposite direction to conventional swing
+  * Yorker: full-pitched delivery aimed at the batsman's feet
+  * Bouncer: short-pitched delivery that rises sharply toward the batsman's head
+  * Slower ball: disguised delivery bowled at reduced pace to deceive the batsman
+
+SPIN BOWLING
+- Spinners bowl slower, relying on turning the ball off the pitch
+  * Off-spin (finger spin): ball turns from off side to leg side for right-handers
+  * Leg-spin (wrist spin): ball turns from leg side to off side; more varied
+  * Doosra: an off-spinner's delivery that turns the other way
+  * Googly (wrong'un): a leg-spinner's delivery that turns the other way
+  * Carrom ball: flicked with the middle finger; unpredictable turn
+  * Flipper: a leg-spinner's quicker, lower delivery that skids through
+
+MEDIUM-PACE BOWLING
+- Bowled at medium speeds (110–130 km/h)
+- Relies on seam movement (ball landing on the seam and deviating off the pitch)
+- Types: seam-up, cutters (off-cutter, leg-cutter)
+
+================================================================================
+SECTION 7: FAMOUS CRICKETERS — PROFILES, STATS & TECHNIQUES
+================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. SACHIN TENDULKAR (India) — "The God of Cricket"
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Born           : April 24, 1973, Mumbai, India
+  Role           : Right-hand batsman
+  Career         : 1989 – 2013 (24 years)
+  Batting style  : Right-hand bat
+
+  CAREER STATS:
+  Format   | Matches | Innings | Runs   | Average | 100s | 50s | HS
+  ---------|---------|---------|--------|---------|------|-----|-----
+  Tests    |   200   |   329   | 15,921 |  53.78  |  51  |  68 | 248*
+  ODIs     |   463   |   452   | 18,426 |  44.83  |  49  |  96 | 200*
+  T20Is    |     1   |     1   |    10  |  10.00  |   0  |   0 |  10
+  TOTAL    |   664   |   782   | 34,357 |    —    | 100  | 164 |  —
+
+  RECORDS:
+  - Most international runs in history: 34,357
+  - Most international centuries in history: 100 (51 Tests, 49 ODIs)
+  - First batsman to score a double century (200*) in ODI cricket
+  - Most Test matches played: 200
+
+  BATTING TECHNIQUE & STYLE:
+  - Compact, classical technique built on a solid defence
+  - Exceptional footwork against both pace and spin
+  - Wide range of shots: straight drive, cover drive, square cut, pull, flick
+  - Kept the bat close to the body; minimal backlift; excellent hand-eye coordination
+  - Known for playing the ball very late, giving him extra time to react
+  - Mastered both the aggressive and defensive modes depending on match situation
+  - Renowned for his straight drive — considered one of the most beautiful in cricket
+  - His ability to rotate strike (score singles and twos) was as valued as his
+    boundary-hitting
+  - Played every type of bowler on every type of surface across the world
+  - His 1998 series against Australia in Chennai is considered one of the greatest
+    individual batting performances in history
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. VIRAT KOHLI (India) — "The King"
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Born           : November 5, 1988, Delhi, India
+  Role           : Right-hand batsman
+  Career         : 2008 – present (active in limited-overs formats)
+
+  CAREER STATS (as of mid-2025):
+  Format   | Matches | Innings | Runs   | Average | 100s | 50s | HS
+  ---------|---------|---------|--------|---------|------|-----|-----
+  Tests    |   123   |   210   |  9,230 |  46.85  |  30  |  31 | 254*
+  ODIs     |   295   |   282   | 13,906 |  57.32  |  50  |  72 | 183
+  T20Is    |   125   |   113   |  4,188 |  52.35  |   1  |  37 | 122*
+  TOTAL    |   543   |   605   | 27,324 |    —    |  81  | 140 |  —
+
+  KEY FACTS:
+  - Retired from Test cricket on May 12, 2025
+  - 50 ODI centuries — surpassed Tendulkar's record of 49 ODI centuries
+  - Scored 765 runs in the 2023 ODI World Cup — the most by any batsman in a
+    single edition of the tournament
+  - Named ICC Men's ODI Cricketer of the Year for 2023
+  - The only batsman to average over 50 in all three formats of the game
+  - Led India as Test captain; replaced by Rohit Sharma in white-ball cricket
+
+  BATTING TECHNIQUE & STYLE:
+  - Extremely compact off-stump technique; rarely leaves balls he should hit
+  - Exceptional back-foot play; excels against both pace and short-pitched bowling
+  - Dominant on the on side (leg side); the flick through mid-wicket is a trademark
+  - Strong work in the "V" (straight down the ground) — his straight drive is sublime
+  - World-class against the moving ball; has conquered conditions in England,
+    South Africa, and Australia
+  - Intense mental focus; known for channelling aggression into concentration
+  - Transformed his fitness — one of the fittest players in world cricket
+  - His chase-master reputation in ODIs is legendary; averaging over 65 in run chases
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. ROHIT SHARMA (India) — "The Hitman"
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Born           : April 30, 1987, Nagpur, India
+  Role           : Right-hand opening batsman / Captain
+  Career         : 2007 – present
+
+  CAREER STATS (as of 2025):
+  Format   | Matches | Innings | Runs   | Average | 100s | 50s | HS
+  ---------|---------|---------|--------|---------|------|-----|-----
+  Tests    |    67   |   118   |  4,301 |  40.19  |  12  |  17 | 212
+  ODIs     |   264   |   254   | 10,709 |  48.68  |  31  |  56 | 264
+  T20Is    |   159   |   152   |  4,231 |  32.55  |   5  |  32 | 118
+  TOTAL    |   490   |   524   | 19,241 |    —    |  48  | 105 |  —
+
+  KEY FACTS:
+  - Holds the record for the highest individual ODI score: 264 (vs Sri Lanka, 2014)
+    — scored off just 173 balls, including 33 fours and 9 sixes
+  - Three ODI double centuries (only player to achieve this)
+  - Led India to the 2024 T20 World Cup victory
+  - Led India to the 2025 ICC Champions Trophy victory
+
+  BATTING TECHNIQUE & STYLE:
+  - Natural, elegant timing; hits the ball effortlessly
+  - Exceptional against the short ball; pulls and hooks with tremendous power
+  - Minimal footwork; reads the ball early and uses the pace off the bat
+  - Exceptional ability to hit sixes straight or over deep mid-wicket
+  - As an opener, takes the Powerplay field restrictions and scores freely
+  - Known for his ability to play long innings when needed in Tests
+  - Calm, composed temperament; rarely looks hurried
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. JASPRIT BUMRAH (India) — "Jassi"
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Born           : December 6, 1993, Ahmedabad, India
+  Role           : Right-arm fast bowler
+  Career         : 2016 – present
+
+  CAREER STATS (as of 2025):
+  Format   | Matches | Wickets | Economy | Average | Best
+  ---------|---------|---------|---------|---------|--------
+  Tests    |   45+   |  190+   |   2.70  |  20.30  | 6/27
+  ODIs     |   90+   |  150+   |   4.63  |  24.30  | 6/19
+  T20Is    |   70+   |  90+    |   6.22  |  18.50  | 3/10
+
+  KEY FACTS:
+  - Fastest Indian pacer to reach 150 Test wickets (in 34 Tests)
+  - Second-fastest pace bowler from Asia to 150 Test wickets (after Waqar Younis)
+  - Regarded as the number one Test bowler in the world at his peak
+  - Has completed 10+ five-wicket hauls in Tests
+
+  BOWLING TECHNIQUE & STYLE:
+  - Unusual, unorthodox action: front-on delivery stride with a low arm
+  - Exceptionally difficult for batsmen to read his release point
+  - Bowls at speeds of 140–150+ km/h with pinpoint accuracy
+  - Expert at swinging the new ball (outswing) and reversing the old ball
+  - Famous for his deadly yorkers during death overs in white-ball cricket
+  - Disguises slower deliveries masterfully
+  - Builds pressure with dot balls; one of the most economical fast bowlers ever
+  - Excels in all conditions: swing in England, pace in South Africa, reverse in
+    subcontinental conditions
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. MS DHONI (India) — "Captain Cool" / "MSD" / "Thala"
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Born           : July 7, 1981, Ranchi, India
+  Role           : Wicket-keeper / Right-hand batsman / Captain
+  Career         : 2004 – 2020 (international); continues in IPL
+
+  CAREER STATS:
+  Format   | Matches | Innings | Runs   | Average | 100s | 50s | HS
+  ---------|---------|---------|--------|---------|------|-----|-----
+  Tests    |    90   |   144   |  4,876 |  38.09  |   6  |  33 | 224
+  ODIs     |   350   |   297   | 10,773 |  50.57  |  10  |  73 | 183*
+  T20Is    |    98   |    85   |  1,617 |  37.60  |   0  |   2 | 56
+
+  KEY FACTS:
+  - Only captain to win all three ICC trophies: 2007 T20 WC, 2011 ODI WC, 2013
+    Champions Trophy
+  - Legendary for his helicopter shot — a unique, powerful stroke invented by him
+  - One of the greatest finishers in cricket history (average in wins: 73+)
+  - Second-most stumpings in international cricket history
+  - Lightning-fast stumpings; world-class hands behind the wicket
+
+  BATTING TECHNIQUE & STYLE:
+  - Unorthodox, attacking lower-order batsman
+  - Plays at a slow pace initially and then accelerates explosively
+  - The "helicopter shot" is his signature: bottom hand-dominant flick/slog over
+    fine leg that even fast bowlers struggle to contain
+  - Ice-cold temperament under pressure; known for winning matches in the final over
+  - His 2011 World Cup final winning six (vs Sri Lanka) is one of cricket's most
+    iconic moments
+  - Relies on his ability to read the match situation perfectly and rotate strike
+  - As wicket-keeper: remarkably fast; known for standing up to medium-pacers
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. SIR DON BRADMAN (Australia) — "The Don"
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Born           : August 27, 1908, Cootamundra, Australia
+  Died           : February 25, 2001
+  Role           : Right-hand batsman
+  Career         : 1928 – 1948
+
+  CAREER STATS (Tests only):
+  Matches | Innings | Runs  | Average | 100s | 50s | HS
+  --------|---------|-------|---------|------|-----|-----
+    52    |   80    | 6,996 |  99.94  |  29  |  13 | 334
+
+  KEY FACTS:
+  - Batting average of 99.94 — the most extraordinary statistical achievement in
+    any sport
+  - Needed just 4 runs in his final Test innings to average 100; was dismissed for
+    0 (a duck)
+  - 29 Test centuries in only 80 innings
+
+  BATTING TECHNIQUE & STYLE:
+  - Extremely unorthodox grip and backlift (circular bat swing) yet supremely effective
+  - Exceptional eye and reflexes allowed him to hit the ball at unusual angles
+  - Dominant off both front foot and back foot
+  - Scored at a very high rate for his era while maintaining consistency
+  - No weaknesses found by any bowling attack in the world
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. SHANE WARNE (Australia) — "Warnie"
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Born           : September 13, 1969, Australia
+  Died           : March 4, 2022
+  Role           : Right-arm leg-spin bowler
+  Career         : 1992 – 2007
+
+  CAREER STATS:
+  Format   | Matches | Wickets | Economy | Average | Best
+  ---------|---------|---------|---------|---------|--------
+  Tests    |  145    |   708   |   2.65  |  25.41  | 8/71
+  ODIs     |  194    |   293   |   4.25  |  25.73  | 5/33
+
+  KEY FACTS:
+  - 708 Test wickets — second only to Muttiah Muralitharan (800)
+  - Revived leg-spin bowling as an art form in modern cricket
+  - The "Ball of the Century" (to Mike Gatting in 1993 Ashes) is the most
+    famous delivery in cricket history
+
+  BOWLING TECHNIQUE & STYLE:
+  - Classical leg-break bowler who turned the ball prodigiously
+  - Used flight, drift, and turn to deceive batsmen
+  - Huge leg-break (ball pitching on leg and turning to off)
+  - Googly, flipper, and top-spinner were key variations
+  - Master of setting up batsmen over multiple deliveries
+  - Could turn the ball on any surface — especially lethal in Asia and England
+  - His bowling was as much mental as physical; loved the battle
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. BRIAN LARA (West Indies) — "The Prince of Trinidad"
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Born           : May 2, 1969, Santa Cruz, Trinidad
+  Role           : Left-hand batsman
+  Career         : 1990 – 2007
+
+  CAREER STATS:
+  Format   | Matches | Innings | Runs   | Average | 100s | 50s | HS
+  ---------|---------|---------|--------|---------|------|-----|-----
+  Tests    |  131    |   232   | 11,953 |  52.88  |  34  |  48 | 400*
+  ODIs     |  299    |   289   |  10,405|  40.48  |  19  |  63 | 169
+
+  KEY FACTS:
+  - World record individual Test score: 400* (vs England, 2004) — an unbeaten record
+  - Also holds the first-class record: 501* (for Warwickshire in 1994)
+  - Only player to hold both Test and first-class batting records simultaneously
+
+  BATTING TECHNIQUE & STYLE:
+  - High backlift, extravagant cover drive; wide stance
+  - Played the ball extremely late; exceptional eye
+  - Elegant left-handed strokeplay; could destroy any bowling attack
+  - Brilliant against fast bowlers in the Caribbean tradition
+  - Sometimes considered the most stylish batter of all time
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9. BEN STOKES (England) — "Stokesy"
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Born           : June 4, 1991, Christchurch, New Zealand
+  Role           : Left-hand batsman / Right-arm fast-medium bowler / England captain
+  Career         : 2011 – present
+
+  CAREER STATS (as of 2025):
+  Format   | Matches | Innings | Runs   | Average | 100s | 50s | Wickets
+  ---------|---------|---------|--------|---------|------|-----|--------
+  Tests    |  115+   |   197+  |  7,000+|  35.40  |  14  |  39 |  200+
+  ODIs     |  105    |    90   |  2,924 |  40.60  |   3  |  21 |   74
+
+  KEY FACTS:
+  - Considered one of the greatest all-rounders of his generation
+  - ICC Men's Cricketer of the Year 2019
+  - Iconic 2019 World Cup Final performance helped England win their first WC title
+  - Led England's aggressive "Bazball" revolution as Test captain from 2022
+
+  STYLE:
+  - Fearless, aggressive left-hand batsman; plays big shots under pressure
+  - Hard-hitting pace bowler capable of key wickets with the new and old ball
+  - Exceptional fielder with safe hands
+  - As captain: ultra-aggressive declarations, setting record run chases, and an
+    attacking mindset that transformed England's Test cricket
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+10. JACQUES KALLIS (South Africa) — "The Wall"
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Born           : October 16, 1975, Cape Town, South Africa
+  Role           : Right-hand batsman / Right-arm fast-medium bowler (all-rounder)
+  Career         : 1995 – 2014
+
+  CAREER STATS:
+  Format   | Matches | Runs   | Average | 100s | Wickets | Bowling Avg
+  ---------|---------|--------|---------|------|---------|------------
+  Tests    |  166    | 13,289 |  55.37  |  45  |   292   |    32.65
+  ODIs     |  328    | 11,579 |  44.36  |  17  |   273   |    31.79
+
+  KEY FACTS:
+  - Statistically the most complete cricketer in history (batting AND bowling)
+  - 13,289 Test runs + 292 Test wickets — no other player comes close to this
+    combination
+  - Many consider him the greatest all-rounder ever
+
+  STYLE:
+  - Classical right-hand batsman: solid off both feet, drives with great timing
+  - Bowled at medium-fast pace with outswing and can take key wickets
+  - As an all-rounder, could be relied upon in any match situation
+
+================================================================================
+SECTION 8: NOTABLE RECORDS IN CRICKET HISTORY
+================================================================================
+
+BATTING RECORDS:
+- Most international runs: Sachin Tendulkar — 34,357
+- Most international centuries: Sachin Tendulkar — 100
+- Highest Test batting average: Sir Don Bradman — 99.94
+- Highest individual Test score: Brian Lara — 400* (vs England, 2004)
+- Highest individual ODI score: Rohit Sharma — 264 (vs Sri Lanka, 2014)
+- Most ODI centuries: Virat Kohli — 50
+
+BOWLING RECORDS:
+- Most Test wickets: Muttiah Muralitharan (Sri Lanka) — 800
+- Most ODI wickets: Muttiah Muralitharan — 534
+- Best bowling average (minimum 200 wickets): Glenn McGrath — 21.64
+
+FIELDING RECORDS:
+- Most Test catches (non-wicket-keeper): Rahul Dravid (India) — 210
+- Most international stumpings: MS Dhoni — 195
+
+================================================================================
+SECTION 9: MAJOR CRICKET TOURNAMENTS
+================================================================================
+
+INTERNATIONAL:
+- ICC Men's Cricket World Cup (ODI) — held every 4 years
+- ICC Men's T20 World Cup — held every 2 years
+- ICC World Test Championship — 2-year cycle; final played at a neutral venue
+- ICC Champions Trophy — 8-team 50-over tournament
+
+DOMESTIC LEAGUES:
+- Indian Premier League (IPL) — India; the richest cricket league in the world
+- Big Bash League (BBL) — Australia
+- Pakistan Super League (PSL) — Pakistan
+- The Hundred — England
+- Caribbean Premier League (CPL) — West Indies
+- SA20 — South Africa
+- Lanka Premier League (LPL) — Sri Lanka
+
+================================================================================
+SECTION 10: CRICKET GLOSSARY
+================================================================================
+
+Crease         — Line on the pitch marking the safe zone for batsmen
+Duck           — Dismissed for 0 runs (Golden duck = on the first ball)
+Hat-trick      — Bowler takes 3 wickets in 3 consecutive deliveries
+Maiden over    — An over in which no runs are scored
+Century (100)  — A batsman scores 100 or more runs in one innings
+Half-century   — A batsman scores 50 runs or more
+Follow-on      — When a team forced to bat again immediately in a Test
+Full toss      — Ball that reaches the batsman without bouncing
+Half volley    — Ball that bounces just short of the batsman's feet
+Beamer         — Illegal full-toss directed at the head; dangerous delivery
+Mankad         — Bowler runs out the non-striker while in delivery stride
+Duckworth-Lewis— Mathematical method to recalculate rain-affected match targets
+Chinaman       — A left-arm wrist-spinner's stock delivery (turns like an off-break)
+Doosra         — Off-spinner's delivery that turns the opposite way
+Flipper        — Leg-spinner's faster, skidding delivery
+Super over     — 1-over per side mini-match to decide a tied limited-overs game
+Powerplay      — Mandatory fielding restrictions at the start of an innings
+Economy rate   — Average runs conceded per over by a bowler
+Strike rate    — Runs scored per 100 balls (batting) or balls per wicket (bowling)
+
+================================================================================
+                          END OF THE CRICKET GUIDE
+================================================================================
+Document prepared: May 2026
+Sources: ICC regulations, MCC Laws of Cricket, ESPNcricinfo, official career stats
+================================================================================
