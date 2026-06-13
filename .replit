@@ -1,0 +1,31 @@
+modules = ["python-3.12"]
+[agent]
+expertMode = true
+stack = "BEST_EFFORT_FALLBACK"
+
+[nix]
+channel = "stable-25_05"
+packages = ["glibcLocales"]
+
+[workflows]
+runButton = "Project"
+
+[[workflows.workflow]]
+name = "Project"
+mode = "parallel"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "workflow.run"
+args = "Start application"
+
+[[workflows.workflow]]
+name = "Start application"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "echo 'LangChain learning scripts ready. Run individual scripts like: python3 langchain_models/learning_models/chat_models_gemini.py' && python3 -c \"import langchain; print('langchain', langchain.__version__, 'installed OK')\" && echo 'Add your API keys to Replit Secrets (GOOGLE_API_KEY, OPENAI_API_KEY, etc.)'"
+
+[workflows.workflow.metadata]
+outputType = "console"
